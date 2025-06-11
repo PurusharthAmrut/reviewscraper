@@ -1,6 +1,5 @@
-import urllib.request, urllib.parse, urllib.error
+import urllib.request
 from bs4 import BeautifulSoup
-from langdetect import detect
 import re
 import ssl
 
